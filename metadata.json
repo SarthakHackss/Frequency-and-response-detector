@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Lab: Detector Responsivity & Frequency Response",
+  "description": "A virtual lab simulation to study and measure the responsivity and frequency response of optical detectors.",
+  "requestFramePermissions": []
+}
